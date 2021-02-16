@@ -1,2 +1,2 @@
 # weight-loss
-This wil be my online weight loss web site
+This will be my online weight loss web site
